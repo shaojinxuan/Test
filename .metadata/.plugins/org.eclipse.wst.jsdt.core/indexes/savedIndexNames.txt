@@ -1,0 +1,1 @@
+INDEX VERSION 1.122+C:\Users\Shao Jinxuan\Test\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
